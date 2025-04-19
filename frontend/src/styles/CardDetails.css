@@ -1,0 +1,124 @@
+.content{
+    width: 90%;
+    margin: auto;
+}
+.content {
+    padding: 20px;
+  
+  }
+  
+  .content h4 {
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .MuiTableContainer-root {
+    margin-top: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    padding: 5px;
+  }
+  
+  .MuiTableHead-root {
+    background-color: #1976d2;
+    color: #fff;
+  }
+  
+  .MuiTableCell-head {
+    font-weight: bold;
+    color: #fff;
+  }
+  
+  .MuiTableRow-root {
+    background-color: #fff;
+    transition: background-color 0.3s;
+  }
+  
+  .MuiTableRow-root:hover {
+    background-color: #d2ebff;
+  }
+  
+  .MuiTableRow-root.green-highlight {
+    background-color: #d4edda; 
+  }
+  
+  .MuiButton-root {
+    text-transform: none;
+    margin-top: 15px;
+  }
+  
+  .MuiButton-contained {
+    font-weight: bold;
+    padding: 10px 20px;
+  }
+  
+  .MuiButton-contained.success {
+    background-color: #4caf50;
+    color: white;
+  }
+  
+  .MuiButton-contained.error {
+    background-color: #f44336;
+    color: white;
+  }
+  
+  .MuiButton-contained.warning {
+    background-color: #ff9800;
+    color: white;
+  }
+  
+  .MuiButton-contained.secondary {
+    background-color: #9e9e9e;
+    color: white;
+  }
+  
+  .MuiButton-outlined {
+    margin-top: 15px;
+  }
+  
+  .MuiDialog-paper {
+    border-radius: 8px;
+  }
+  
+  .MuiDialogTitle-root {
+    font-weight: bold;
+  }
+  
+  .MuiDialogActions-root {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .MuiTextField-root {
+    margin-top: 10px;
+  }
+  
+  .MuiTextField-root textarea {
+    resize: none;
+  }
+  
+  .dialog-textarea {
+    font-size: 14px;
+  }
+  
+  .MuiTypography-root {
+    font-size: 16px;
+  }
+  
+  .error-message {
+    color: red;
+    font-weight: bold;
+  }
+  
+  .MuiButton-outlined.primary {
+    color: #1976d2;
+    border-color: #1976d2;
+  }
+  
+  .MuiButton-outlined.primary:hover {
+    background-color: #1976d2;
+    color: white;
+  }
+  
